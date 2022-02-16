@@ -12,7 +12,9 @@
     "release:minor": "standard-version --release-as minor",
     "release:major": "standard-version --release-as major"
   },
-  "keywords": [],
+  "keywords": [
+    "nested-routing"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
